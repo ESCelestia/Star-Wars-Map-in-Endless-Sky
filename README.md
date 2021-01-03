@@ -26,5 +26,11 @@ Also included in the "Basic Outfits" are a handful of maps that will make explor
 become a massive and unbearable chore that takes about an hour even with 1,000 fuel processors and a JD,
 yes I have done that before and I am still salty that I didn't just add the map outfit in the first place.
 
+Because the current map does not have any inhabited systems, a very...potent ship will be required to
+navigate the galaxy.  Included is a save file that has a ship that will be able to navigate the galaxy with
+relative ease.  Note that it does not have a JD.  This is because the map is not designed with a JD in
+mind.  The map was designed with the Star Wars trade routes in mind, and thus funnels players to the trade
+routes rather than allowing them to roam freely as a JD would allow for.
+
 * The Rutilicus system is not present so that it is still possible to access the Omnis plugin galaxy if you
 have the Omnis plugin installed.
