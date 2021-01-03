@@ -3,6 +3,9 @@ The current goal is to have every system from Star Wars Legends placed as accura
 possible (within reason), and to have sector borders, trade routes, and important
 astronomical features such as the Void of Chopani labled.
 
+Delete the ui folder in images if the background looks like garbage in-game.  Anything
+contained in there is meant for development, and is not intended to be shown in game.
+
 The images shown in the background are screenshots from http://www.swgalaxymap.com/
 The orange systems are systems that appear in Canon, and the blue systems are systems
 that appear exclusively in Legends.  Many of the most important systems such as Hoth
