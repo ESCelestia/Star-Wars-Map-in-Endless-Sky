@@ -4,7 +4,7 @@ possible (within reason), and to have sector borders, trade routes, and importan
 astronomical features such as the Void of Chopani labled.
 
 The images shown in the background are screenshots from http://www.swgalaxymap.com/
-The orange systems are systems that appear in canon, and the blue systems are systems
+The orange systems are systems that appear in Canon, and the blue systems are systems
 that appear exclusively in Legends.  Many of the most important systems such as Hoth
 and Byss appear in both Canon and Legends, and are thus orange.  For this reason, some
 orange systems have been added to the map while others have been left alone.
