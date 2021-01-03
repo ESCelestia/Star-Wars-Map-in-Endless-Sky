@@ -24,7 +24,7 @@ same sector.
 
 Also included in the "Basic Outfits" are a handful of maps that will make exploring the SW galaxy not
 become a massive and unbearable chore that takes about an hour even with 1,000 fuel processors and a JD,
-yes I have done that before and I am still salty that I didn't just add the map outfit in the first palce.
+yes I have done that before and I am still salty that I didn't just add the map outfit in the first place.
 
 * The Rutilicus system is not present so that it is still possible to access the Omnis plugin galaxy if you
 have the Omnis plugin installed.
