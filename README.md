@@ -9,10 +9,22 @@ that appear exclusively in Legends.  Many of the most important systems such as 
 and Byss appear in both Canon and Legends, and are thus orange.  For this reason, some
 orange systems have been added to the map while others have been left alone.
 
-Many systems do not have exact locations given in any official map, and liberty has been
-taken in a few instances where perfectly accurate placement of systems would result in
-unreadable system names due to how close together those systems are.  See the Tharin
-sector for an example, the space in and around the Periphary region in particular.  It
-can be searched for in game by searching for the Dles system just above Hutt Space.
-Note how the systems in that area do not line up with the systems on the inserted
-screenshots.
+Most systems do not have exact locations given in any official map, and liberty has been taken in a few
+instances where perfectly accurate placement of systems would result in unreadable system names due to
+how close together those systems are.  See the Tharin sector for an example, the space in and around the
+Periphary region in particular.  It can be searched for in game by searching for the Dles system just above
+Hutt Space.  Note how the systems in that area do not line up with the systems on the inserted screenshots.
+
+Every system in the main Endless Sky map is included in the map.txt with the exception of Rutilicus*.
+This is because a number of systems in Endless Sky have the same name as systems in Star Wars, see Rigel
+and Capella as examples.  In these instances, the systems have been renamed to be slightly different from
+what they actually are in Star Wars.  Rigel has been renamed Rigellia after the Rigellian race that are from
+Rigel, and Capella has been renamed Greater Capella due to the presence of the Little Capella system in the
+same sector.
+
+Also included in the "Basic Outfits" are a handful of maps that will make exploring the SW galaxy not
+become a massive and unbearable chore that takes about an hour even with 1,000 fuel processors and a JD,
+yes I have done that before and I am still salty that I didn't just add the map outfit in the first palce.
+
+* The Rutilicus system is not present so that it is still possible to access the Omnis plugin galaxy if you
+have the Omnis plugin installed.
