@@ -3863,6 +3863,47 @@ system Adin
 			distance 414
 			period 44.8412
 
+system Adras
+	pos 11180.7 13086.1
+	habitable 625
+	link Belloria
+	asteroids "small rock" 5 2.9988
+	asteroids "medium rock" 14 5.0274
+	asteroids "large rock" 3 4.5423
+	asteroids "medium metal" 11 6.4386
+	asteroids "large metal" 4 2.205
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/dust7
+		distance 176
+		period 37.3585
+	object
+		sprite planet/rock13
+		distance 400.41
+		period 128.197
+	object
+		sprite planet/fog0
+		distance 1004.9
+		period 509.688
+	object
+		sprite planet/rock6
+		distance 1720.9
+		period 1142.23
+	object
+		sprite planet/jupiter
+		distance 3097.9
+		period 2758.81
+		object
+			sprite planet/rock3
+			distance 284
+			period 15.0397
+		object
+			sprite planet/desert4
+			distance 378
+			period 23.094
+
 system Aduba
 	pos 14476.2 10120.2
 	habitable 1050.92
@@ -4181,6 +4222,51 @@ system Aeten
 		sprite planet/gas12
 		distance 2139.21
 		period 1917.68
+
+system Agomar
+	pos 11033.4 13219.1
+	habitable 486.68
+	link Eriadu
+	asteroids "small rock" 22 2.376
+	asteroids "medium rock" 13 3.12
+	asteroids "large rock" 2 1.656
+	asteroids "medium metal" 18 2.496
+	asteroids "large metal" 6 1.92
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/cloud7
+		distance 170.04
+		period 40.2036
+	object
+		sprite planet/ocean0
+		distance 471.08
+		period 185.387
+	object
+		sprite planet/rock11
+		distance 707.84
+		period 341.461
+	object
+		sprite planet/rock9
+		distance 1232.8
+		period 784.833
+	object
+		sprite planet/desert2
+		distance 1465.89
+		period 1017.63
+	object
+		sprite planet/gas17
+		distance 5823.89
+		period 8058.57
+		object
+			sprite planet/luna
+			distance 247
+			period 16.5851
+		object
+			sprite planet/dust4
+			distance 341
+			period 26.9033
 
 system Agon
 	pos 13950.1 8531.09
@@ -7582,7 +7668,7 @@ system Alpheratz
 			minables silicon 5 5.83737
 
 system Alphoresis
-	pos 11258.2 12963
+	pos 11265.2 12970
 	habitable 2340
 	link Tergamenion
 	link Whinndor
@@ -9563,6 +9649,60 @@ system Antevorta
 			belt 1994
 			haze _menu/haze-red
 			minables silicon 4 2.09623
+
+system Anthus
+	pos 10851.7 13094.1
+	habitable 320
+	link Drilbia
+	asteroids "small rock" 12 1.4652
+	asteroids "medium rock" 46 2.0988
+	asteroids "large rock" 15 1.3464
+	asteroids "small metal" 1 2.178
+	asteroids "medium metal" 2 1.5642
+	asteroids "large metal" 1 1.8414
+	object
+		sprite star/m0
+		period 10
+	object
+		sprite planet/rock11
+		distance 128.24
+		period 32.4728
+	object
+		sprite planet/ocean1
+		distance 434.73
+		period 202.682
+		object
+			sprite planet/io
+			distance 133
+			period 15.4331
+	object
+		sprite planet/cloud1
+		distance 754.94
+		period 463.824
+	object
+		sprite planet/rock19
+		distance 1045.83
+		period 756.27
+	object
+		sprite planet/miranda
+		distance 1220.19
+		period 953.073
+	object
+		sprite planet/dust6
+		distance 1360.2
+		period 1121.73
+	object
+		sprite planet/gas6
+		distance 6497.61
+		period 11711.6
+		object
+			sprite planet/dust7
+			distance 276
+			period 11.7119
+		object
+			sprite planet/rock7
+			distance 388
+			period 19.5215
 
 system Antipose
 	pos 14491.2 8963
@@ -11986,6 +12126,7 @@ system Averam
 	habitable 1080
 	link Eriadu
 	link Shumavar
+	link Luptoom
 	asteroids "small rock" 10 10.266
 	asteroids "medium rock" 27 5.568
 	asteroids "large rock" 8 11.832
@@ -14587,6 +14728,59 @@ system Bellis
 			sprite planet/dust3
 			distance 298
 			period 13.1398
+
+system Belloria
+	pos 11182.8 13142.7
+	habitable 3430
+	link Uvena
+	link Adras
+	asteroids "small rock" 2 6.7203
+	asteroids "medium rock" 15 6.0021
+	asteroids "large rock" 4 6.156
+	asteroids "small metal" 15 3.8475
+	asteroids "medium metal" 48 5.7456
+	asteroids "large metal" 29 3.7962
+	object
+		sprite star/f5
+		distance 69
+		period 11.0721
+		offset 180
+	object
+		sprite star/f5
+		distance 69
+		period 11.0721
+	object
+		sprite planet/rock6
+		distance 261.49
+		period 28.8799
+	object
+		sprite planet/cloud3
+		distance 505.7
+		period 77.6698
+	object
+		sprite planet/uranus
+		distance 901.95
+		period 185.006
+		object
+			sprite planet/miranda
+			distance 219
+			period 13.8465
+	object
+		sprite planet/lava6
+		distance 1385.39
+		period 352.185
+	object
+		sprite planet/gas5
+		distance 3275.64
+		period 1280.43
+		object
+			sprite planet/dust5
+			distance 275
+			period 15.1651
+		object
+			sprite planet/ice7
+			distance 405
+			period 27.1038
 
 system Belonging
 	pos -1007.59 658.051
@@ -17440,6 +17634,52 @@ system Borosk
 		distance 3797.71
 		period 1995.1
 
+system Bortras
+	pos 11000.4 13182.1
+	habitable 912.6
+	link Drilbia
+	link "Ord Simres"
+	link Eriadu
+	asteroids "small rock" 1 2.9325
+	asteroids "medium rock" 10 4.4275
+	asteroids "large rock" 2 4.5425
+	asteroids "small metal" 2 5.8075
+	asteroids "medium metal" 9 4.5425
+	asteroids "large metal" 5 5.3475
+	object
+		sprite star/k0
+		distance 49.938
+		period 14.6553
+	object
+		sprite star/k5
+		distance 57.062
+		period 14.6553
+		offset 180
+	object
+		sprite planet/gas4
+		distance 361.822
+		period 91.1302
+	object
+		sprite planet/desert0
+		distance 683.912
+		period 236.821
+	object
+		sprite planet/earth
+		distance 1121.92
+		period 497.581
+		object
+			sprite planet/dust5
+			distance 164
+			period 21.5017
+	object
+		sprite planet/gas11
+		distance 2684.16
+		period 1841.34
+		object
+			sprite planet/dust1
+			distance 248
+			period 12.8812
+
 system Bosph
 	pos 12652.7 6749.66
 	habitable 912.6
@@ -18513,6 +18753,57 @@ system Brigia
 		distance 2976.89
 		period 1976.93
 
+system Brintooin
+	pos 11149.8 13215.7
+	habitable 486.68
+	link Mirnic
+	link Orryxia
+	link Uvena
+	asteroids "small rock" 3 3.1694
+	asteroids "medium rock" 6 4.3056
+	asteroids "large rock" 4 3.6478
+	asteroids "small metal" 12 1.6146
+	asteroids "large metal" 36 1.7342
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/rock6
+		distance 267.96
+		period 79.5322
+		object
+			sprite planet/dust5
+			distance 135
+			period 19.718
+	object
+		sprite planet/rhea
+		distance 543.05
+		period 229.455
+	object
+		sprite planet/gas1
+		distance 1257.86
+		period 808.885
+		object
+			sprite planet/rock0
+			distance 220
+			period 13.0422
+	object
+		sprite planet/callisto
+		distance 1651.55
+		period 1216.96
+	object
+		sprite planet/dust3
+		distance 1785.55
+		period 1368.03
+	object
+		sprite planet/gas17
+		distance 5689.71
+		period 7781.68
+		object
+			sprite planet/dust1
+			distance 223
+			period 14.2276
+
 system Brochiib
 	pos 13490.2 6797.69
 	habitable 425.92
@@ -19114,10 +19405,10 @@ system Burna
 			period 44.6961
 
 system Bylluran
-	pos 11308.2 12998
+	pos 11123.2 12985
 	habitable 625
-	link Syned
-	link Tramanos
+	link "Tanta Besh"
+	link "Cmaoli Di"
 	asteroids "small rock" 95 4.83
 	asteroids "medium rock" 42 1.8354
 	asteroids "large rock" 88 1.9642
@@ -19658,6 +19949,44 @@ system Calline
 			sprite planet/ice8
 			distance 626
 			period 49.2179
+
+system Callos
+	pos 11131.7 13040.1
+	habitable 1400
+	link "Cmaoli Di"
+	link "Ord Hout"
+	asteroids "small metal" 8 4.1038
+	asteroids "medium metal" 33 3.757
+	asteroids "large metal" 16 1.6184
+	object
+		sprite star/g0
+		distance 21.7143
+		period 9.89877
+		offset 180
+	object
+		sprite star/m0
+		distance 73.2857
+		period 9.89877
+	object
+		sprite planet/rock11
+		distance 198.296
+		period 29.8515
+	object
+		sprite planet/ganymede
+		distance 430.986
+		period 95.6512
+	object
+		sprite planet/desert6
+		distance 821.986
+		period 251.937
+		object
+			sprite planet/dust0
+			distance 140
+			period 17.2591
+	object
+		sprite planet/gas10
+		distance 2243.28
+		period 1135.85
 
 system Caluula
 	pos 13969.5 8152.27
@@ -22086,6 +22415,48 @@ system Chasin
 			distance 597
 			period 41.1786
 
+system Chelleya
+	pos 11065.8 13191.8
+	habitable 486.68
+	link Uvena
+	link Dzass
+	asteroids "small rock" 1 6.3336
+	asteroids "large rock" 1 9.0741
+	asteroids "small metal" 5 7.6734
+	asteroids "medium metal" 53 6.7599
+	asteroids "large metal" 9 4.6893
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/rhea
+		distance 169.29
+		period 39.9379
+	object
+		sprite planet/desert0
+		distance 342.13
+		period 114.743
+	object
+		sprite planet/rock18
+		distance 575.77
+		period 250.502
+	object
+		sprite planet/gas3
+		distance 1527.86
+		period 1082.84
+	object
+		sprite planet/gas0
+		distance 2478.42
+		period 2237.18
+		object
+			sprite planet/rock17
+			distance 271
+			period 13.0741
+		object
+			sprite planet/rock7
+			distance 376
+			period 21.3667
+
 system Chelloan
 	pos 11223.2 12992
 	habitable 425.92
@@ -23506,6 +23877,8 @@ system "Cmaoli Di"
 	habitable 425.92
 	link "Tanta Aurek"
 	link Eriadu
+	link Callos
+	link Bylluran
 	asteroids "small rock" 14 4.8256
 	asteroids "medium rock" 12 4.16
 	asteroids "large rock" 19 3.4944
@@ -28462,6 +28835,66 @@ system Dellalt
 		distance 2258.47
 		period 2810.88
 
+system Delmaas
+	pos 11109.8 13360.8
+	habitable 912.6
+	link Pyolli
+	asteroids "small rock" 8 7.56
+	asteroids "medium rock" 8 5.076
+	asteroids "large rock" 35 5.184
+	asteroids "small metal" 15 6.588
+	asteroids "medium metal" 57 4.968
+	asteroids "large metal" 4 4.266
+	object
+		sprite star/k0
+		distance 57.4054
+		period 18.0625
+	object
+		sprite star/k5
+		distance 65.5946
+		period 18.0625
+		offset 180
+	object
+		sprite planet/dust1
+		distance 184.885
+		period 33.2867
+	object
+		sprite planet/desert0
+		distance 358.645
+		period 89.9324
+	object
+		sprite planet/lava2
+		distance 538.055
+		period 165.257
+	object
+		sprite planet/gas15
+		distance 1418.14
+		period 707.132
+		object
+			sprite planet/rock0
+			distance 221
+			period 17.2936
+		object
+			sprite planet/dust5
+			distance 321
+			period 30.2729
+	object
+		sprite planet/gas16
+		distance 2424.58
+		period 1580.8
+		object
+			sprite planet/ice8
+			distance 185
+			period 13.2451
+		object
+			sprite planet/dust3
+			distance 288
+			period 25.7268
+		object
+			sprite planet/rock17
+			distance 435
+			period 47.7563
+
 system "Delta Capricorni"
 	pos -285 202
 	government Syndicate
@@ -32099,6 +32532,50 @@ system Drezzi
 			distance 608
 			period 49.8543
 
+system Drilbia
+	pos 10925.7 13121.1
+	habitable 1715
+	link Bortras
+	link "Ord Ibanna"
+	link "Ord Simres"
+	link Anthus
+	asteroids "medium rock" 2 2.6448
+	asteroids "large rock" 1 2.584
+	asteroids "small metal" 4 3.6784
+	asteroids "medium metal" 1 1.672
+	asteroids "large metal" 1 4.4384
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/gas14
+		distance 253.61
+		period 39.0101
+	object
+		sprite planet/cloud3
+		distance 573.77
+		period 132.75
+	object
+		sprite planet/gas2
+		distance 828.77
+		period 230.451
+	object
+		sprite planet/gas12
+		distance 1998.38
+		period 862.869
+		object
+			sprite planet/rock17
+			distance 263
+			period 11.2026
+		object
+			sprite planet/miranda
+			distance 377
+			period 19.2264
+		object
+			sprite planet/luna
+			distance 480
+			period 27.6215
+
 system Drog
 	pos 13417 6971.47
 	habitable 320
@@ -33454,6 +33931,62 @@ system Dweem
 			distance 693
 			period 46.5977
 
+system Dzass
+	pos 11064.8 13129.8
+	habitable 1313.28
+	link Chelleya
+	asteroids "small rock" 12 5.5836
+	asteroids "medium rock" 37 8.0784
+	asteroids "large rock" 23 8.2566
+	asteroids "small metal" 3 5.94
+	asteroids "medium metal" 1 7.9002
+	asteroids "large metal" 3 4.5738
+	object
+		sprite star/g0
+		distance 16.1645
+		period 9.58172
+		offset 180
+	object
+		sprite star/m4
+		distance 74.8355
+		period 9.58172
+	object
+		sprite planet/venus
+		distance 229.596
+		period 38.3996
+	object
+		sprite planet/rock16
+		distance 442.846
+		period 102.863
+	object
+		sprite planet/gas2
+		distance 1090.14
+		period 397.285
+		object
+			sprite planet/rock7
+			distance 181
+			period 14.7548
+	object
+		sprite planet/gas10
+		distance 2190.14
+		period 1131.33
+		object
+			sprite planet/rock0
+			distance 186
+			period 13.3526
+		object
+			sprite planet/tethys
+			distance 295
+			period 26.6704
+		object
+			sprite planet/dust3
+			distance 374
+			period 38.0719
+		object
+			sprite planet/oberon
+			distance 553
+			period 68.4518
+
 system Earth
 	pos 10232.8 7868.89
 	habitable 1080
@@ -33746,6 +34279,52 @@ system Eblumab
 			minables copper 8 6.10344
 			minables iron 6 6.39134
 			minables lead 17 7.069
+
+system Eczar
+	pos 11005.8 13423.8
+	habitable 486.68
+	link "Moshaw Dark Star"
+	link Spuma
+	link Luptoom
+	asteroids "medium rock" 3 1.4399
+	asteroids "large rock" 19 2.805
+	asteroids "medium metal" 24 2.3001
+	asteroids "large metal" 5 2.1505
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/rock8
+		distance 167.16
+		period 39.1865
+	object
+		sprite planet/desert6
+		distance 492.6
+		period 198.235
+	object
+		sprite planet/lava6
+		distance 736.89
+		period 362.696
+	object
+		sprite planet/cloud2
+		distance 1051.38
+		period 618.127
+		object
+			sprite planet/rock7
+			distance 158
+			period 15.9756
+	object
+		sprite planet/gas2
+		distance 1811.38
+		period 1397.82
+		object
+			sprite planet/ice8
+			distance 217
+			period 19.3689
+		object
+			sprite planet/io
+			distance 315
+			period 33.8751
 
 system Edonaaris
 	pos 12232.5 8066.66
@@ -36435,6 +37014,10 @@ system Eriadu
 	link Colu
 	link Dolla
 	link Dorvalla
+	link Bortras
+	link Agomar
+	link Seswenna
+	link Parwa
 	asteroids "small rock" 5 1.98
 	asteroids "large rock" 8 1.32
 	asteroids "small metal" 5 3.6168
@@ -58255,6 +58838,63 @@ system Kerest
 			distance 273
 			period 16.9135
 
+system Kerig'En
+	pos 11081 13073.3
+	habitable 659.2
+	link "Ord Hout"
+	link Sullust
+	asteroids "small rock" 6 5.6924
+	asteroids "medium rock" 59 5.2668
+	asteroids "large rock" 32 2.7664
+	asteroids "small metal" 27 2.8728
+	asteroids "medium metal" 5 5.9052
+	asteroids "large metal" 5 6.7032
+	object
+		sprite star/k5
+		distance 41.0505
+		period 19.4643
+	object
+		sprite star/m4
+		distance 74.9495
+		period 19.4643
+		offset 180
+	object
+		sprite planet/desert2
+		distance 274.36
+		period 70.7997
+	object
+		sprite planet/forest1
+		distance 528.61
+		period 189.345
+	object
+		sprite planet/desert1
+		distance 1148.3
+		period 606.225
+		object
+			sprite planet/rock14
+			distance 177
+			period 20.4412
+	object
+		sprite planet/gas9
+		distance 1802.46
+		period 1192.2
+	object
+		sprite planet/gas0
+		distance 3312.71
+		period 2970.48
+		object
+			sprite planet/rock0
+			distance 254
+			period 11.8633
+		object
+			sprite planet/dust7
+			distance 358
+			period 19.8509
+		object
+			sprite planet/desert4
+			distance 447
+			period 27.6961
+
 system Keros
 	pos 12386.5 8110.66
 	habitable 625
@@ -58298,8 +58938,9 @@ system Keros
 			period 43.6328
 
 system Kesh
-	pos 14639.7 9759.82
+	pos 14594.7 9818.82
 	habitable 425.92
+	link P'frorin
 	asteroids "large metal" 1 1.1808
 	object
 		sprite star/k5
@@ -66717,6 +67358,35 @@ system Lucrenn
 			distance 468
 			period 53.2925
 
+system Lucrusia
+	pos 11069.8 13323.8
+	habitable 320
+	link Parwa
+	asteroids "large metal" 1 5.6448
+	object
+		sprite star/m0
+		period 10
+	object
+		sprite planet/cloud4
+		distance 240.21
+		period 83.2476
+	object
+		sprite planet/lava5
+		distance 494.82
+		period 246.125
+	object
+		sprite planet/ice5
+		distance 1025.03
+		period 733.821
+		object
+			sprite planet/rhea
+			distance 178
+			period 23.4888
+	object
+		sprite planet/rock7
+		distance 2192.39
+		period 2295.42
+
 system Luj
 	pos 11434.3 13717.6
 	habitable 640
@@ -66761,6 +67431,44 @@ system Luj
 			sprite planet/europa
 			distance 329
 			period 23.8512
+
+system Luptoom
+	pos 11016.8 13381.8
+	habitable 486.68
+	link Eczar
+	link Spuma
+	link Averam
+	asteroids "medium rock" 1 2.921
+	asteroids "large rock" 1 2.438
+	asteroids "medium metal" 4 2.875
+	asteroids "large metal" 1 3.381
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/desert7
+		distance 151.44
+		period 33.7909
+	object
+		sprite planet/gas8
+		distance 840.69
+		period 441.969
+		object
+			sprite planet/callisto
+			distance 195
+			period 14.4954
+		object
+			sprite planet/rhea
+			distance 350
+			period 34.8561
+	object
+		sprite planet/gas7
+		distance 1858.45
+		period 1452.66
+		object
+			sprite planet/dust4
+			distance 230
+			period 12.4086
 
 system Lur
 	pos 13324.2 6987.69
@@ -72567,6 +73275,59 @@ system Mirial
 			distance 224
 			period 11.8241
 
+system Mirnic
+	pos 11117.8 13277.8
+	habitable 320
+	link Parwa
+	link Pyolli
+	link Brintooin
+	link Seswenna
+	asteroids "small rock" 76 5.616
+	asteroids "medium rock" 19 3.432
+	asteroids "large rock" 13 3.588
+	asteroids "small metal" 3 3.588
+	asteroids "medium metal" 2 4.914
+	asteroids "large metal" 5 2.535
+	object
+		sprite star/m0
+		period 10
+	object
+		sprite planet/ganymede
+		distance 151.16
+		period 41.5566
+	object
+		sprite planet/cloud2
+		distance 354.52
+		period 149.261
+	object
+		sprite planet/gas17
+		distance 1238.28
+		period 974.346
+		object
+			sprite planet/rock7
+			distance 203
+			period 12.3571
+		object
+			sprite planet/dust4
+			distance 293
+			period 21.4277
+		object
+			sprite planet/io
+			distance 394
+			period 33.4132
+	object
+		sprite planet/gas8
+		distance 2336.28
+		period 2525.06
+		object
+			sprite planet/dust0
+			distance 187
+			period 13.6125
+		object
+			sprite planet/rhea
+			distance 319
+			period 30.3293
+
 system Miro
 	pos 10089.7 7957.28
 	habitable 320
@@ -73773,6 +74534,47 @@ system Moseum
 		sprite planet/gas6
 		distance 2402.62
 		period 4054.35
+
+system "Moshaw Dark Star"
+	pos 10957.4 13456.2
+	habitable 233.28
+	link Eczar
+	asteroids "medium rock" 38 3.213
+	asteroids "large rock" 13 4.1769
+	asteroids "small metal" 175 2.2491
+	asteroids "medium metal" 29 4.641
+	asteroids "large metal" 126 2.3562
+	object
+		sprite star/m4
+		period 10
+	object
+		sprite planet/rhea
+		distance 135.01
+		period 41.0838
+	object
+		sprite planet/cloud0
+		distance 321.65
+		period 151.076
+	object
+		sprite planet/lava1
+		distance 511.54
+		period 302.999
+	object
+		sprite planet/gas12
+		distance 1072.18
+		period 919.439
+		object
+			sprite planet/ice8
+			distance 302
+			period 13.7846
+		object
+			sprite planet/dust3
+			distance 387
+			period 19.9964
+	object
+		sprite planet/gas16
+		distance 3955.47
+		period 6515.06
 
 system Moskk
 	pos 10031.2 7666.36
@@ -80549,6 +81351,91 @@ system "Ord Grovner"
 			distance 400
 			period 42.1102
 
+system "Ord Hout"
+	pos 11112 13057.3
+	habitable 1715
+	link Callos
+	link Kerig'En
+	asteroids "small rock" 5 6.9552
+	asteroids "medium rock" 14 3.4293
+	asteroids "large rock" 32 5.9409
+	asteroids "small metal" 4 5.6028
+	asteroids "medium metal" 9 6.8586
+	asteroids "large metal" 3 2.5599
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock4
+		distance 212.81
+		period 29.9858
+	object
+		sprite planet/titan
+		distance 432.85
+		period 86.9829
+	object
+		sprite planet/rock1
+		distance 854.09
+		period 241.092
+		object
+			sprite planet/luna
+			distance 140
+			period 19.2622
+	object
+		sprite planet/gas17
+		distance 1422.7
+		period 518.32
+		object
+			sprite planet/rhea
+			distance 232
+			period 15.0975
+	object
+		sprite planet/gas0
+		distance 2238.11
+		period 1022.7
+
+system "Ord Ibanna"
+	pos 10961.4 13057.1
+	habitable 1050.92
+	link Drilbia
+	link "Ord Simres"
+	link Tuerto
+	asteroids "small rock" 4 4.704
+	asteroids "medium rock" 3 8.1984
+	asteroids "large rock" 5 5.1744
+	asteroids "small metal" 1 4.2336
+	asteroids "medium metal" 3 6.3168
+	asteroids "large metal" 2 6.6528
+	object
+		sprite star/g5
+		distance 38.0966
+		period 11.2452
+		offset 180
+	object
+		sprite star/k5
+		distance 55.9034
+		period 11.2452
+	object
+		sprite planet/rock5
+		distance 236.903
+		period 44.9917
+	object
+		sprite planet/desert2
+		distance 491.903
+		period 134.615
+	object
+		sprite planet/rock8
+		distance 827.143
+		period 293.526
+	object
+		sprite planet/ice0
+		distance 1768.75
+		period 917.859
+	object
+		sprite planet/dust7
+		distance 2600.31
+		period 1636.11
+
 system "Ord Janon"
 	pos 11470.6 6175.64
 	habitable 233.28
@@ -80939,6 +81826,59 @@ system "Ord Sigatt"
 			sprite planet/ice0
 			distance 446
 			period 24.0584
+
+system "Ord Simres"
+	pos 10997.4 13109.1
+	habitable 806.68
+	link Bortras
+	link Drilbia
+	link "Ord Ibanna"
+	asteroids "small rock" 2 0.9828
+	asteroids "medium rock" 7 1.6198
+	asteroids "large rock" 16 1.8746
+	asteroids "medium metal" 1 1.4924
+	asteroids "large metal" 1 1.1284
+	object
+		sprite star/k0
+		distance 36.892
+		period 12.6309
+		offset 180
+	object
+		sprite star/m0
+		distance 56.108
+		period 12.6309
+	object
+		sprite planet/venus
+		distance 331.068
+		period 84.837
+		object
+			sprite planet/io
+			distance 156
+			period 22.2334
+	object
+		sprite planet/forest2
+		distance 723.908
+		period 274.305
+	object
+		sprite planet/gas10
+		distance 1255.87
+		period 626.795
+		object
+			sprite planet/europa
+			distance 175
+			period 12.1858
+		object
+			sprite planet/desert4
+			distance 318
+			period 29.8496
+	object
+		sprite planet/gas4
+		distance 1957.51
+		period 1219.73
+		object
+			sprite planet/luna
+			distance 229
+			period 12.2222
 
 system "Ord Thoden"
 	pos 9732.7 7028.7
@@ -81574,6 +82514,48 @@ system Orron
 			sprite planet/tethys
 			distance 384
 			period 32.1492
+
+system Orryxia
+	pos 11187.8 13247.8
+	habitable 486.68
+	link Brintooin
+	asteroids "small rock" 60 1.7
+	asteroids "medium rock" 12 1.785
+	asteroids "large rock" 11 2.142
+	asteroids "small metal" 4 1.598
+	asteroids "medium metal" 52 1.224
+	asteroids "large metal" 22 2.397
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/desert8
+		distance 148.96
+		period 32.9642
+	object
+		sprite planet/desert10
+		distance 360.65
+		period 124.184
+	object
+		sprite planet/neptune
+		distance 953.66
+		period 533.984
+		object
+			sprite planet/desert4
+			distance 191
+			period 13.1517
+		object
+			sprite planet/ice8
+			distance 272
+			period 22.3504
+		object
+			sprite planet/europa
+			distance 400
+			period 39.8586
+	object
+		sprite planet/uranus
+		distance 2108.5
+		period 1755.49
 
 system Orto
 	pos 11008.1 13626.4
@@ -82458,6 +83440,7 @@ system P'frorin
 	habitable 5000
 	link Aramanoo
 	link Klytonia
+	link Kesh
 	asteroids "small rock" 3 2.3056
 	asteroids "medium rock" 2 2.112
 	asteroids "large rock" 29 1.056
@@ -83616,6 +84599,51 @@ system Partold
 			distance 404
 			period 28.6398
 
+system Parwa
+	pos 11085.8 13295.8
+	habitable 2795
+	link Mirnic
+	link Eriadu
+	link Lucrusia
+	asteroids "large metal" 1 4.1837
+	object
+		sprite star/f5
+		distance 51.0054
+		period 11.4744
+		offset 180
+	object
+		sprite star/g0
+		distance 80.9946
+		period 11.4744
+	object
+		sprite planet/dust6
+		distance 250.485
+		period 29.9944
+	object
+		sprite planet/uranus
+		distance 787.325
+		period 167.147
+		object
+			sprite planet/callisto
+			distance 219
+			period 13.8465
+	object
+		sprite planet/gas6
+		distance 1585.53
+		period 477.675
+		object
+			sprite planet/desert4
+			distance 279
+			period 11.9034
+		object
+			sprite planet/io
+			distance 367
+			period 17.9582
+	object
+		sprite planet/oberon
+		distance 2632.97
+		period 1022.21
+
 system Pas'sic
 	pos 11171.6 7816.43
 	habitable 2340
@@ -83793,6 +84821,71 @@ system Patch
 			sprite planet/rock14
 			distance 578
 			period 73.1457
+
+system Patriim
+	pos 11195.4 13282.2
+	habitable 745.92
+	link Phelarion
+	link Pyolli
+	asteroids "small rock" 43 1.9448
+	asteroids "medium rock" 17 1.326
+	asteroids "large rock" 11 3.1603
+	asteroids "small metal" 7 1.8343
+	asteroids "medium metal" 86 2.4089
+	asteroids "large metal" 2 3.2045
+	object
+		sprite star/k5
+		distance 36.894
+		period 11.6805
+		offset 180
+	object
+		sprite star/m0
+		distance 49.106
+		period 11.6805
+	object
+		sprite planet/lava2
+		distance 175.356
+		period 34.0091
+	object
+		sprite planet/rock9
+		distance 372.396
+		period 105.25
+	object
+		sprite planet/gas16
+		distance 1210.4
+		period 616.744
+		object
+			sprite planet/lava0
+			distance 226
+			period 17.8838
+		object
+			sprite planet/rock0
+			distance 353
+			period 34.9108
+	object
+		sprite planet/gas1
+		distance 1813.09
+		period 1130.68
+	object
+		sprite planet/gas2
+		distance 2726.09
+		period 2084.6
+		object
+			sprite planet/luna
+			distance 174
+			period 13.9072
+		object
+			sprite planet/dust4
+			distance 284
+			period 28.9996
+		object
+			sprite planet/rhea
+			distance 390
+			period 46.6672
+		object
+			sprite planet/ice8
+			distance 496
+			period 66.9325
 
 system Paulking
 	pos 14518.2 8992
@@ -85466,6 +86559,60 @@ system Phecda
 		minables lead 41 5.68365
 		minables silicon 72 4.34737
 		minables titanium 39 5.28035
+
+system Phelarion
+	pos 11200.4 13325.2
+	habitable 425.92
+	link Patriim
+	asteroids "small rock" 1 1.9344
+	asteroids "medium rock" 16 2.7768
+	asteroids "large rock" 9 2.5584
+	asteroids "small metal" 1 3.2448
+	asteroids "medium metal" 98 2.184
+	asteroids "large metal" 2 2.3088
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/rock4
+		distance 354.16
+		period 129.18
+		object
+			sprite planet/europa
+			distance 159
+			period 18.2526
+	object
+		sprite planet/ganymede
+		distance 865.2
+		period 493.254
+	object
+		sprite planet/gas5
+		distance 1553.36
+		period 1186.6
+		object
+			sprite planet/dust4
+			distance 264
+			period 14.2644
+		object
+			sprite planet/oberon
+			distance 345
+			period 21.3096
+	object
+		sprite planet/gas17
+		distance 3700.25
+		period 4362.57
+		object
+			sprite planet/io
+			distance 246
+			period 16.4845
+		object
+			sprite planet/rock14
+			distance 405
+			period 34.8222
+		object
+			sprite planet/dust3
+			distance 578
+			period 59.3697
 
 system Pherkad
 	pos -798 451
@@ -88221,6 +89368,50 @@ system Pygorix
 			sprite planet/desert4
 			distance 522
 			period 37.4772
+
+system Pyolli
+	pos 11129.4 13310.2
+	habitable 486.68
+	link Patriim
+	link Mirnic
+	link Delmaas
+	asteroids "small rock" 9 7.9344
+	asteroids "medium rock" 53 7.0992
+	asteroids "large rock" 70 6.3336
+	asteroids "small metal" 7 7.656
+	asteroids "medium metal" 9 6.0552
+	asteroids "large metal" 45 8.6304
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/venus
+		distance 171.49
+		period 40.7189
+	object
+		sprite planet/forest6
+		distance 495.93
+		period 200.248
+	object
+		sprite planet/desert7
+		distance 1095.09
+		period 657.072
+	object
+		sprite planet/gas15
+		distance 2400.53
+		period 2132.55
+		object
+			sprite planet/luna
+			distance 193
+			period 14.1134
+		object
+			sprite planet/lava0
+			distance 350
+			period 34.4667
+		object
+			sprite planet/dust0
+			distance 477
+			period 54.8371
 
 system Pypin
 	pos 13409.2 6830.69
@@ -98394,6 +99585,44 @@ system Sestooine
 			distance 321
 			period 30.2729
 
+system Seswenna
+	pos 11076.4 13256.2
+	habitable 320
+	link Eriadu
+	link Mirnic
+	asteroids "small rock" 8 2.0124
+	asteroids "medium rock" 26 1.9188
+	asteroids "large rock" 69 1.1076
+	asteroids "small metal" 31 1.3572
+	asteroids "large metal" 32 1.014
+	object
+		sprite star/m0
+		period 10
+	object
+		sprite planet/desert6
+		distance 243.36
+		period 84.8904
+	object
+		sprite planet/cloud7
+		distance 731.97
+		period 442.818
+		object
+			sprite planet/dust3
+			distance 145
+			period 24.3422
+	object
+		sprite planet/desert8
+		distance 1186.97
+		period 914.418
+		object
+			sprite planet/ice8
+			distance 170
+			period 28.4302
+	object
+		sprite planet/desert4
+		distance 2481.86
+		period 2764.72
+
 system Sevarcos
 	pos 11374.4 13657.8
 	habitable 233.28
@@ -101389,7 +102618,7 @@ system Skarpos
 			period 16.7101
 
 system Skeebo
-	pos 14419.2 8820
+	pos 14423.2 8821
 	habitable 425.92
 	link Baummu
 	link Danos
@@ -104186,6 +105415,57 @@ system Sprizen
 			distance 477
 			period 39.0632
 
+system Spuma
+	pos 10988.4 13394.2
+	habitable 425.92
+	link Eczar
+	link Luptoom
+	asteroids "small rock" 6 7.1632
+	asteroids "medium rock" 64 2.904
+	asteroids "large rock" 2 4.7432
+	asteroids "small metal" 17 4.7916
+	asteroids "medium metal" 15 3.63
+	asteroids "large metal" 14 6.1952
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/rock19
+		distance 273.64
+		period 87.7335
+		object
+			sprite planet/dust1
+			distance 126
+			period 18.9022
+	object
+		sprite planet/gas10
+		distance 797.64
+		period 436.623
+		object
+			sprite planet/rock0
+			distance 189
+			period 13.677
+		object
+			sprite planet/europa
+			distance 271
+			period 23.4829
+	object
+		sprite planet/neptune
+		distance 1496.08
+		period 1121.57
+		object
+			sprite planet/luna
+			distance 231
+			period 17.4924
+	object
+		sprite planet/gas9
+		distance 2115.72
+		period 1886.18
+		object
+			sprite planet/rock14
+			distance 237
+			period 13.6808
+
 system Squab
 	pos 10917.7 14195.5
 	habitable 8640
@@ -105255,6 +106535,8 @@ system Sullust
 	habitable 1080
 	link Eriadu
 	link Tshindral
+	link Kerig'En
+	link Tuerto
 	asteroids "small rock" 7 3.528
 	asteroids "medium rock" 35 1.752
 	asteroids "large rock" 2 2.616
@@ -106013,7 +107295,7 @@ system Syned
 	link Omwat
 	link "Azzameen Station"
 	link Nakrikal
-	link Bylluran
+	link Tramanos
 	asteroids "large metal" 1 3.4542
 	object
 		sprite star/g5
@@ -107190,11 +108472,12 @@ system "Tanta Aurek"
 			period 19.976
 
 system "Tanta Besh"
-	pos 11150.2 12978
+	pos 11154.2 12958
 	habitable 425.92
 	link "Tanta Aurek"
 	link "Qi Lozar"
 	link Obica
+	link Bylluran
 	asteroids "small rock" 7 3.1944
 	asteroids "medium rock" 58 2.4552
 	asteroids "large rock" 8 1.716
@@ -107531,6 +108814,7 @@ system Targarth
 system Targonn
 	pos 14604.6 8681.27
 	habitable 320
+	link Trailia
 	asteroids "small metal" 2 2.1632
 	asteroids "large metal" 4 4.2016
 	object
@@ -112077,6 +113361,7 @@ system Trailia
 	pos 14558 8579.06
 	habitable 973.36
 	link Baros
+	link Targonn
 	asteroids "small rock" 18 2.5974
 	asteroids "medium rock" 195 1.7082
 	asteroids "large rock" 55 1.9656
@@ -112161,10 +113446,10 @@ system Tralfin
 			period 21.9405
 
 system Tramanos
-	pos 11296.2 12984
+	pos 11310.2 12997
 	habitable 1715
 	link Whinndor
-	link Bylluran
+	link Syned
 	asteroids "medium rock" 51 9.2092
 	asteroids "large rock" 11 8.2432
 	asteroids "small metal" 11 3.9928
@@ -113183,6 +114468,41 @@ system Tshindral
 			sprite planet/dust1
 			distance 518
 			period 41.5807
+
+system Tuerto
+	pos 11004.4 12993.1
+	habitable 486.68
+	link "Ord Ibanna"
+	link Sullust
+	asteroids "small rock" 1 3.5322
+	asteroids "medium rock" 18 4.9938
+	asteroids "large rock" 2 5.6028
+	asteroids "small metal" 6 8.6478
+	asteroids "medium metal" 45 7.7343
+	asteroids "large metal" 19 3.9585
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/rock16
+		distance 144.81
+		period 31.5963
+	object
+		sprite planet/cloud5
+		distance 548.22
+		period 232.74
+	object
+		sprite planet/jupiter
+		distance 1137.31
+		period 695.435
+	object
+		sprite planet/desert5
+		distance 1930.4
+		period 1537.83
+		object
+			sprite planet/dust3
+			distance 129
+			period 16.1108
 
 system Tund
 	pos 14571.2 8974
@@ -114967,6 +116287,59 @@ system Utrica
 			sprite planet/callisto
 			distance 456
 			period 51.8351
+
+system Uvena
+	pos 11131.4 13188.2
+	habitable 1111.68
+	link Brintooin
+	link Chelleya
+	link Belloria
+	asteroids "small rock" 23 1.9008
+	asteroids "medium rock" 128 2.904
+	asteroids "large rock" 2 3.1152
+	asteroids "small metal" 1 3.6696
+	asteroids "large metal" 1 2.2704
+	object
+		sprite star/g5
+		distance 43.341
+		period 11.8174
+		offset 180
+	object
+		sprite star/k0
+		distance 55.659
+		period 11.8174
+	object
+		sprite planet/neptune
+		distance 873.909
+		period 309.934
+		object
+			sprite planet/ice7
+			distance 242
+			period 18.7566
+		object
+			sprite planet/dust4
+			distance 376
+			period 36.3257
+		object
+			sprite planet/tethys
+			distance 466
+			period 50.12
+		object
+			sprite planet/rock3
+			distance 618
+			period 76.5447
+	object
+		sprite planet/ocean6
+		distance 1712.4
+		period 850.115
+	object
+		sprite planet/gas3
+		distance 2660.84
+		period 1646.64
+		object
+			sprite planet/rhea
+			distance 305
+			period 13.6055
 
 system "Uviuy Exen"
 	pos 10606.1 9222.45
@@ -119486,7 +120859,7 @@ system Whendyll
 		period 1460.56
 
 system Whinndor
-	pos 11286.2 12973
+	pos 11290.2 12982
 	habitable 233.28
 	link Alphoresis
 	link Tramanos
