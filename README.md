@@ -37,3 +37,5 @@ routes rather than allowing them to roam freely as a JD would allow for.
 
 * The Rutilicus system is not present so that it is still possible to access the Omnis plugin galaxy if you
 have the Omnis plugin installed.
+
+~42% of systems are in place.
