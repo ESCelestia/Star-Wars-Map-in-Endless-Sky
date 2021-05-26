@@ -19553,6 +19553,48 @@ system Brunet
 		distance 2082.18
 		period 1156.45
 
+system Bryndar
+	pos 10246.5 13814.6
+	habitable 1715
+	link Tallek
+	link Vryssa
+	asteroids "small rock" 26 6.0984
+	asteroids "medium rock" 10 6.1992
+	asteroids "large rock" 21 5.6448
+	asteroids "medium metal" 33 3.7296
+	asteroids "large metal" 1 3.4272
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock10
+		distance 232
+		period 34.1319
+	object
+		sprite planet/rock18
+		distance 545.25
+		period 122.976
+	object
+		sprite planet/gas16
+		distance 1711.46
+		period 683.877
+		object
+			sprite planet/dust1
+			distance 228
+			period 18.1217
+		object
+			sprite planet/luna
+			distance 340
+			period 33.0001
+		object
+			sprite planet/rock17
+			distance 461
+			period 52.1013
+		object
+			sprite planet/dust3
+			distance 559
+			period 69.5689
+
 system Bseto
 	pos 12263.1 8497.23
 	habitable 486.68
@@ -27280,6 +27322,52 @@ system Dalchon
 			sprite planet/dust5
 			distance 450
 			period 25.0729
+
+system Dalicron
+	pos 10205.5 13970.6
+	habitable 1080
+	link Sappire
+	link Vryssa
+	asteroids "small rock" 6 2.0383
+	asteroids "large rock" 17 2.7302
+	asteroids "small metal" 9 2.6554
+	asteroids "medium metal" 166 1.8513
+	asteroids "large metal" 1 1.8326
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/mercury
+		distance 223.25
+		period 40.6009
+	object
+		sprite planet/ice3
+		distance 539.46
+		period 152.506
+	object
+		sprite planet/forest3
+		distance 901.46
+		period 329.434
+		object
+			sprite planet/desert4
+			distance 140
+			period 22.6078
+	object
+		sprite planet/desert9
+		distance 1598.5
+		period 777.888
+	object
+		sprite planet/gas4
+		distance 3955.91
+		period 3028.43
+		object
+			sprite planet/miranda
+			distance 241
+			period 13.1954
+		object
+			sprite planet/europa
+			distance 370
+			period 25.1015
 
 system Dalos
 	pos 13756.7 7598.48
@@ -95545,6 +95633,50 @@ system Renatasia
 			distance 315
 			period 22.768
 
+system Renforra
+	pos 10208.5 14101.6
+	habitable 2160
+	link Sappire
+	asteroids "small rock" 3 2.646
+	asteroids "medium rock" 41 1.274
+	asteroids "large rock" 5 2.0776
+	asteroids "small metal" 13 2.6068
+	asteroids "medium metal" 7 2.8616
+	asteroids "large metal" 16 1.5876
+	object
+		sprite star/g0
+		distance 66
+		period 13.0525
+		offset 180
+	object
+		sprite star/g0
+		distance 66
+		period 13.0525
+	object
+		sprite planet/lava1
+		distance 241.25
+		period 32.2503
+	object
+		sprite planet/rock16
+		distance 605.06
+		period 128.095
+		object
+			sprite planet/dust5
+			distance 131
+			period 20.4632
+	object
+		sprite planet/rock3
+		distance 883.75
+		period 226.114
+	object
+		sprite planet/cloud3
+		distance 1563.51
+		period 532.089
+	object
+		sprite planet/jupiter
+		distance 2014.47
+		period 778.17
+
 system Rennokk
 	pos 14371.5 9729.32
 	habitable 425.92
@@ -98182,6 +98314,7 @@ system Rutan
 	link Fwatna
 	link Mustafar
 	link Chundu
+	link Sappire
 	asteroids "small rock" 13 3.5904
 	asteroids "medium rock" 25 1.9856
 	asteroids "large rock" 4 3.536
@@ -99921,6 +100054,50 @@ system Santarine
 			sprite planet/oberon
 			distance 453
 			period 39.265
+
+system Sappire
+	pos 10307.5 14067.6
+	habitable 625
+	link Rutan
+	link Renforra
+	link Dalicron
+	asteroids "small rock" 1 10.4272
+	asteroids "medium rock" 10 7.9184
+	asteroids "large rock" 1 4.2336
+	asteroids "small metal" 11 7.3696
+	asteroids "medium metal" 102 9.5648
+	asteroids "large metal" 6 10.5056
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/lava6
+		distance 225.09
+		period 54.0324
+	object
+		sprite planet/neptune
+		distance 831.78
+		period 383.825
+		object
+			sprite planet/tethys
+			distance 220
+			period 16.258
+		object
+			sprite planet/desert4
+			distance 316
+			period 27.9874
+		object
+			sprite planet/dust4
+			distance 419
+			period 42.732
+	object
+		sprite planet/gas9
+		distance 1914.19
+		period 1339.98
+		object
+			sprite planet/ice0
+			distance 242
+			period 14.1161
 
 system Sargas
 	pos -542 445
@@ -110251,6 +110428,53 @@ system Talita
 		minables copper 7 3.2624
 		minables iron 4 2.47306
 		minables silicon 6 3.70162
+
+system Tallek
+	pos 10319.5 13753.6
+	habitable 1080
+	link Bryndar
+	link Vryssa
+	link ZXK-100346
+	asteroids "large metal" 1 4.6725
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/ganymede
+		distance 165.64
+		period 25.9475
+	object
+		sprite planet/desert0
+		distance 367.64
+		period 85.799
+	object
+		sprite planet/desert9
+		distance 693.2
+		period 222.145
+	object
+		sprite planet/rock7
+		distance 844.44
+		period 298.677
+	object
+		sprite planet/gas6
+		distance 3491.4
+		period 2511
+		object
+			sprite planet/rock14
+			distance 289
+			period 12.5491
+		object
+			sprite planet/dust1
+			distance 415
+			period 21.5942
+		object
+			sprite planet/dust3
+			distance 513
+			period 29.6784
+		object
+			sprite planet/dust0
+			distance 636
+			period 40.9685
 
 system Talofan
 	pos 12336.5 13165.9
@@ -122586,6 +122810,54 @@ system Vrosynri
 			distance 344
 			period 25.5008
 
+system Vryssa
+	pos 10298.5 13884.6
+	habitable 486.68
+	link Dalicron
+	link Bryndar
+	link Tallek
+	asteroids "small rock" 11 2.7324
+	asteroids "medium rock" 19 2.1114
+	asteroids "large rock" 3 6.1272
+	asteroids "small metal" 6 5.9616
+	asteroids "medium metal" 17 2.898
+	asteroids "large metal" 5 3.519
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/rock10
+		distance 228.76
+		period 62.7348
+	object
+		sprite planet/miranda
+		distance 513.8
+		period 211.169
+	object
+		sprite planet/gas1
+		distance 1129.29
+		period 688.092
+		object
+			sprite planet/callisto
+			distance 219
+			period 12.9533
+		object
+			sprite planet/rock7
+			distance 368
+			period 28.2155
+		object
+			sprite planet/ice8
+			distance 477
+			period 41.6383
+	object
+		sprite planet/gas14
+		distance 2545.1
+		period 2328.07
+		object
+			sprite planet/dust3
+			distance 234
+			period 14.5775
+
 system Vuchelle
 	pos 10615.2 7746.86
 	government Pentastar
@@ -126620,6 +126892,7 @@ system ZXK-100346
 	pos 10417.7 13730.6
 	habitable 1715
 	link Dorlo
+	link Tallek
 	asteroids "small rock" 2 4.1958
 	asteroids "medium rock" 6 3.5154
 	asteroids "large rock" 2 4.4793
